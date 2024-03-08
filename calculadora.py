@@ -2,7 +2,7 @@
 
 from tkinter import * #importar a biblioteca tkinter para a interface grafica
 
-app = Tk()
+app = Tk() #como foi importado tudo de tkinter, não é necessario usar o tkinter.Tk()
 
 show = ""  #variavel que vai mudar o texto
 
