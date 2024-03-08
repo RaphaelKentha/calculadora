@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 
-from Tkinter import *
+from tkinter import * #importar a biblioteca tkinter para a interface grafica
 
 app = Tk()
 

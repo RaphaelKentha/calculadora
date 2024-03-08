@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 
-from Tkinter import *
+from tkinter import *
 from math import sqrt
 
 app = Tk()
